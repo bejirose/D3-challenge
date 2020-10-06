@@ -9,4 +9,4 @@
 ## 2) Bonus Plots
 
 * Created scatter plots for three risk factors for each axis.
-* Animating the transitions to the plot upon clicking available x-axis or y-axis values.
+* Animated the transitions to the plot upon clicking available x-axis or y-axis values.
